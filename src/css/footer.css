@@ -1,0 +1,11 @@
+.footer{
+    display: grid;
+    grid-area: footer;
+    background: linear-gradient(145deg, #84e,#b07dfb);
+}
+
+.footer p{
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
